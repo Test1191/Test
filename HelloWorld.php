@@ -1,6 +1,6 @@
 <?php>
 echo"Hello World"
 echo "New file uploaded"
-echo "new File is updated"
+echo "new update"
 
 ?>
